@@ -37,4 +37,4 @@ print(quicksort(0, len(example)-1, example))
 print("hehe guiyomi deul")
 print("dashi")
 
-print("branch 분기해쪄여")
+print("캬캬컄 branch2에서 충돌을 일으킬것이다")
