@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //#include 아무고토안할고야
-//#include 이건 메인인데 브랜치2 넌 이제 곧 죽었쓰
-
+//#include 휴 저 브랜치2는 내가 없앴어! 메인이는 착하게 살아야해!
 
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
